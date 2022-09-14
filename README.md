@@ -1,12 +1,12 @@
-# WEB3BRIDGE - Frontend Mentor | FAQ Accordion Card solution
+# WEB3BRIDGE - Todo List App
 
-This is a solution to the FAQ Accordion Card task for WEB2CVII TEAM 1
+This is a solution for Todo List App WEB2CVII TEAM 1
 
 ## Overview
 
-This challenge was gotten from Frontend Mentor and facilitated by WEB3BRIDGE.
+This challenge was facilitated by WEB3BRIDGE.
 
-**To do this challenge, you need a basic understanding of HTML and Advance CSS.**
+**To do this challenge, you need a basic understanding of HTML, Advance CSS and JavaScript**
 
 ### The challenge
 
@@ -16,13 +16,12 @@ Users should be able to:
 
 ### Screenshots
 
-![](./assets/images/Screenshot%202022-08-21%20at%2022-08-43%20Frontend%20Mentor%20FAQ%20Accordion%20Card.png)
-![](./assets/images/Screen%20Shot%202022-08-21%20at%2022.13.33.png)
+![](./assets/images/Screenshot%202022-09-14%20at%2017-53-49%20TODO%20List%20App.png)
 
 ### Links
 
-- Solution URL: (https://github.com/Daslaw/accordion_card.git)
-- Live Site URL:(https://daslaw.github.io/accordion_card/)
+- Solution URL: ()
+- Live Site URL:()
 
 ## My process
 
@@ -35,6 +34,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- JavaScript
 
 ### Tools
 
@@ -44,7 +44,7 @@ Users should be able to:
 ### What I learned
 
 - CSS styling with Flexbox and Media Query
-- Use of details html tag
+- JavaScript DOM Manipulation
 
 ## Acknowledgments
 
