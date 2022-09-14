@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL:()
+- Solution URL: (https://github.com/Daslaw/TodoApp.git)
+- Live Site URL:(https://daslaw.github.io/TodoApp/)
 
 ## My process
 
